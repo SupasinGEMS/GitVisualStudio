@@ -46,7 +46,7 @@ Public Class Form1
         Dim dr As DataRow = Nothing
         Dim CCC As String = "TESTC"
         Dim GEMS As String = "GEMSSSSSSSSSSSSSSSSSSSSSS"
-        Dim Mint As String = "Mintttttttttttttttttttttt"
+        Dim Mint As String = "Mintttttttttttttttttttt tt"
         Dim ZAAA As String = "ZAAAAAAAAAAAAAAAAA"
     End Sub
 End Class
