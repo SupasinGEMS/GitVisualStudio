@@ -25,6 +25,7 @@ Partial Class Form1
         Me.wbmap = New System.Windows.Forms.WebBrowser()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.test = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'wbmap
@@ -54,11 +55,21 @@ Partial Class Form1
         Me.Button2.Text = "Trigger onclick method of marker 2"
         Me.Button2.UseVisualStyleBackColor = True
         '
+        'test
+        '
+        Me.test.Location = New System.Drawing.Point(82, 71)
+        Me.test.Name = "test"
+        Me.test.Size = New System.Drawing.Size(187, 23)
+        Me.test.TabIndex = 3
+        Me.test.Text = "test"
+        Me.test.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(788, 452)
+        Me.Controls.Add(Me.test)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.wbmap)
@@ -71,4 +82,5 @@ Partial Class Form1
     Friend WithEvents wbmap As WebBrowser
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents test As Button
 End Class
