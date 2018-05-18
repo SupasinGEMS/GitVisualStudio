@@ -13,7 +13,7 @@ Public Class Form1
         Dim onlyPositions As Double(,) = New Double(2, 1) {{42.13557, -0.40806}, {42.13684, -0.40884}, {42.13716, -0.40729}}
         Dim positonAndTitles As String(,) = New String(2, 2) {{"42.13557", "-0.40806", "marker0"}, {"42.13684", "-0.40884", "marker1"}, {"42.13716", "-0.40729", "marker2"}}
         Dim positonTitlesAndIcons As String(,) = New String(2, 3) {{"42.13557", "-0.40806", "marker0", "truck_red.png"}, {"42.13684", "-0.40884", "marker1", "truck_red.png"}, {"42.13716", "-0.40729", "marker2", "truck_red.png"}}
-
+    
         'Dim gmh As GoogleMapHelper = New GoogleMapHelper(wbmap, onlyPositions)
         'Dim gmh As GoogleMapHelper = New GoogleMapHelper(wbmap, positonAndTitles)
         Dim gmh As GoogleMapHelper = New GoogleMapHelper(wbmap, positonTitlesAndIcons)
