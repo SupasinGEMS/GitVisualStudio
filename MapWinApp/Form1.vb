@@ -45,5 +45,8 @@ Public Class Form1
         MsgBox("Git Hub.....Gems")
         MsgBox("Title:")
         MsgBox("Hello world in WF from HTML")
+        Dim AAA As String = "TESTA"
+        Dim BBB As String = "TESTB"
+        Dim CCC As String = "TESTC"
     End Sub
 End Class
