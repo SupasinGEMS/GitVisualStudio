@@ -42,7 +42,8 @@ Public Class Form1
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
-        MsgBox("Git Hub.....GemsGGGGGGGG")
+        MsgBox("Git Hub.....Gems")
+        MsgBox("Title:")
         MsgBox("Hello world in WF from HTML")
     End Sub
 End Class
