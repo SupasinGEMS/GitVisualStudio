@@ -42,7 +42,7 @@ Public Class Form1
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
-        Dim dt as New Datable
-        Dim dr as DataRow = nothing
+        Dim dt As New DataTable
+        Dim dr As DataRow = Nothing
     End Sub
 End Class
