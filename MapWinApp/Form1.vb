@@ -45,6 +45,9 @@ Public Class Form1
         MsgBox("Git Hub.....")
         MsgBox("Git Hub.....Two commit")
         Dim A as Integer = 0
-        Dim dt as New Datatble
+        Dim dt as New DataTable
+        Dim SS as String =""
+        Dim ZZ as String =""
+        Dim BB as boolean = false
     End Sub
 End Class
