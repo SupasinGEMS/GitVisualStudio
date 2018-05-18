@@ -44,9 +44,9 @@ Public Class Form1
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
         Dim dt As New DataTable
         Dim dr As DataRow = Nothing
-        Dim CCC As String = "TESTC"
         Dim GEMS As String = "GEMSSSSSSSSSSSSSSSSSSSSSS"
-        Dim Mint As String = "Mintttttttttttttttttttt  tt"
-        Dim ZAAA As String = "ZAAAAAAAAAAAAAAAAA"
+        Dim Mint As String = "Minttttttttttttttttttttttt"
+        Dim fah As String = "fahhhhhhhhhhhhhhhhhhhhhhhhhh"
+
     End Sub
 End Class
