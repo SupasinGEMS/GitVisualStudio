@@ -1,0 +1,11 @@
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\bin\Debug\MapWinApp.exe.config
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\bin\Debug\MapWinApp.exe
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\bin\Debug\MapWinApp.pdb
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\bin\Debug\MapWinApp.xml
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.vbprojResolveAssemblyReference.cache
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.Form1.resources
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.Resources.resources
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.vbproj.GenerateResource.Cache
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.exe
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.xml
+D:\EMC\test\TestWinMap\MapWinApp\MapWinApp\obj\Debug\MapWinApp.pdb
