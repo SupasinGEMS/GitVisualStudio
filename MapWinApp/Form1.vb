@@ -44,5 +44,7 @@ Public Class Form1
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
         MsgBox("Git Hub.....")
         MsgBox("Git Hub.....Two commit")
+        Dim A as Integer = 0
+        Dim dt as New Datatble
     End Sub
 End Class
