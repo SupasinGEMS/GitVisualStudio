@@ -44,5 +44,6 @@ Public Class Form1
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
         Dim dts As New DataTable
         Dim dr As DataRow = Nothing
+        MsgBox("Hello GEMS")
     End Sub
 End Class
