@@ -42,9 +42,8 @@ Public Class Form1
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
-        MsgBox("Git Hub.....Gems")
-        MsgBox("Title:")
-        MsgBox("Hello world in WF from HTML")
+        Dim dt As New Datable
+        Dim dr As DataRow = Nothing
         Dim AAA As String = "TESTA"
         Dim BBB As String = "TESTB"
         Dim CCC As String = "TESTC"
