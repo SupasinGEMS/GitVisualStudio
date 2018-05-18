@@ -42,8 +42,7 @@ Public Class Form1
     End Sub
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
-        MsgBox("Git Hub......Gems")
-        MsgBox("Title:")
-        MsgBox("Hello world in WF from HTML")
+        Dim dt as new Datatable
+        Dim dr as DataRow = nothing
     End Sub
 End Class
