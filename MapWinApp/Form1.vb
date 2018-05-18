@@ -47,5 +47,6 @@ Public Class Form1
         Dim AAA As String = "TESTA"
         Dim BBB As String = "TESTB"
         Dim CCC As String = "TESTC"
+        Dim GEMS As String = "GEMSSSSSSSSSSSSSSSSSSSSSS"
     End Sub
 End Class
