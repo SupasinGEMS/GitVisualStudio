@@ -43,12 +43,14 @@ Public Class Form1
 
     Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
         MsgBox("Git Hub.....")
-        MsgBox("Git Hub.....Two commitGEMS")
+        MsgBox("Git Hub.....Two commit")
         Dim A As Integer = 0
         Dim dt As New DataTable
         Dim SS As String = ""
         Dim ZZ As String = ""
         Dim BB As Boolean = False
+        MsgBox("Git Hib AAAAAAAAAAAAAAAAAAAAAAAAAA")
+        MsgBox("Git Hub.....Two commitGEMS")
         Dim VV As Double = 0.0
     End Sub
 End Class
