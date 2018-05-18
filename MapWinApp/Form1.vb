@@ -40,4 +40,8 @@ Public Class Form1
     Public Sub showVbHelloWorld()
         MsgBox("Hello world in WF from HTML")
     End Sub
+
+    Private Sub test_Click(sender As Object, e As EventArgs) Handles test.Click
+        MsgBox("Git Hub.....")
+    End Sub
 End Class
