@@ -47,5 +47,6 @@ Public Class Form1
         Dim CCC As String = "TESTC"
         Dim GEMS As String = "GEMSSSSSSSSSSSSSSSSSSSSSS"
         Dim Mint As String = "Mintttttttttttttttttttttt"
+        Dim fah As String = "fahhhhhhhhhhhhhhhhhhhhhhhhhh"
     End Sub
 End Class
