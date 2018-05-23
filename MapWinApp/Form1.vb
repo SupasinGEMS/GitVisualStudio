@@ -45,5 +45,6 @@ Public Class Form1
         Dim dts As New DataTable
         Dim dr As DataRow = Nothing
         Dim a As String = "GEMS"
+        Dim b As String = "AA"
     End Sub
 End Class
